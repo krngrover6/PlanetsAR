@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 194116665}
   - component: {fileID: 194116669}
   m_Layer: 0
-  m_Name: Earth
+  m_Name: Mars
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -185,7 +185,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 61c0074669ae64d7ba28362817a9f153, type: 2}
+  - {fileID: 2100000, guid: 1255dc8678fbd4cdea48bd15fc815d10, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotationController
   PlanetObject: {fileID: 194116664}
-  RotationVector: {x: 0, y: 50, z: 0}
+  RotationVector: {x: 0, y: 90, z: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
